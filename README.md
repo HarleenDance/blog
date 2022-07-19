@@ -1,7 +1,3 @@
-
-![夜尽天明](https://upload-images.jianshu.io/upload_images/12890819-6e2289f29c0d3b39.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
 ## 简介
 
 地址：[https://biaochenxuying.cn/](https://biaochenxuying.cn/)
@@ -265,33 +261,3 @@
 
 > https://www.kwgg2020.com/
 
-
-[⬆️ 返回顶部](#目录)
-
-## 撩我
-
-
-| 微信 | 公众号 |
-| :------: |  :------: |
-| 微信：**CB834301747** <div align="center" style="margin-top: 10px;"> ![CB834301747](./images/CB834301747.jpeg) </div> | <div align="center"> ![](https://upload-images.jianshu.io/upload_images/12890819-50b85ba33dd7ba90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240) </div> |
-
-
-> 欢迎关注微信公众号 “**[全栈修炼](https://upload-images.jianshu.io/upload_images/12890819-9a13b43f4feb8f84.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)**”，回复 “**电子书**” 即可以获得下面 **300** 本技术精华书籍和 **160+** 本前端精华电子书哦。
-
-![](https://upload-images.jianshu.io/upload_images/12890819-62496904db90a9fa.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-[⬆️ 返回顶部](#目录)
-
-
-<!-- ## 打赏
-
-> **江山父老能容我，不使人间造孽钱**。
-
-如果你感觉有收获，欢迎给我点个 Star 、或者真心赞赏一下，都是对我最大的鼓励，我会更有动力输出有价值的内容。
-
-<div align="center">
-
-![](https://upload-images.jianshu.io/upload_images/12890819-ffab7bd24d08c00d.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/250)
-
-</div> -->
